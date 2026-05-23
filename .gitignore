@@ -1,0 +1,9 @@
+*
+!*/
+
+!*.jl
+!*.doc
+!*.docx
+
+!.gitignore
+!README.md
